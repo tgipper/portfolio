@@ -1,0 +1,10 @@
+# Site settings
+title: Home
+collections:
+  portfolio:
+    output: true
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
