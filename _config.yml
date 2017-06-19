@@ -8,3 +8,6 @@ collections:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Scripts
+google_analytics: "UA-101292469-1"
